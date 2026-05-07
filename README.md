@@ -1,3 +1,2 @@
 # miniShell
-realize a shell of linux
-some description will be added(TODO)
+A mini version of Linux Shell
